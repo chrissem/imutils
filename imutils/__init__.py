@@ -13,3 +13,4 @@ from .convenience import is_cv2
 from .convenience import is_cv3
 from .convenience import check_opencv_version
 from .meta import find_function
+from .utils import printrgb
